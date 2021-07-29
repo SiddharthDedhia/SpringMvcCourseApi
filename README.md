@@ -1,3 +1,3 @@
 # SpringMvcCourseApi
-Technologa - Spring Boot , Spring MVC , Spring Data JPA , Actuator
+Technologies - Spring Boot , Spring MVC , Spring Data JPA , Actuator
 DB - Apache Derby
